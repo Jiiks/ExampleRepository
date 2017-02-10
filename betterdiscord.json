@@ -1,0 +1,74 @@
+[
+  {
+    "_comment_docs": "Please read the docs for more detailed instructions on how to construct a repository. https://betterdiscord.net/docs",
+
+    "name": "Example Theme",
+
+    "_comment_type": "type should be either theme or plugin",
+    "type": "theme",
+
+    "_comment_src": "Source path for your theme",
+    "src": "src/ExampleTheme1",
+
+    "_comment_filename": "(optional)Set if your theme/plugin filename is different than the name. .theme.css and .plugin.js are automatically added.",
+    "filename": "Example_Theme",
+
+    "version": "1.0",
+
+    "description": "Short description of your theme",
+
+    "_comment_tags": "an array of tags to be displayed on your theme and used for searching",
+    "tags": [
+      "Light",
+      "Partial"
+    ],
+
+    "_comment_authors": "an array of users who worked on the theme/plugin.(discord_username is displayed on the website with a link to their profile)",
+    "authors": [
+      {
+        "discord_id": "81388395867156480",
+        "_comment_discord_username": "fallback username if user profile is not found on the website database by discord_id",
+        "discord_username": "Jiiks",
+        "github_username": "Jiiks",
+        "_comment_display_github": "if true then github_username is displayed on the website instead with a link to their github(default = false)",
+        "display_github": false
+      }
+    ],
+
+    "_comment_preview": "paths for previews, currently only used for a thumbnail. Full preview will load your whole css",
+    "preview": {
+      "_comment_thumbnail": "Basepath for your thumbnail is the root directory of your repository",
+      "thumbnail": "thumbnails/ExampleTheme1/thumb.png"
+    }
+  },
+
+  {
+    "name": "Example Theme 2",
+    "type": "theme",
+    "src": "src/ExampleTheme2",
+    "filename": "Example_Theme_2",
+    "version": "1.0",
+    "description": "Short description of your theme",
+    "tags": [
+      "Dark",
+      "Transparent",
+      "Full Conversion"
+    ],
+    "authors": [
+      {
+        "discord_id": "81388395867156480",
+        "discord_username": "Jiiks",
+        "github_username": "Jiiks"
+      },
+      {
+        "discord_id": "0",
+        "discord_username": "Dummy User",
+        "github_username": "Dummy User",
+        "display_github": true
+      }
+    ],
+    "preview": {
+      "thumbnail": "thumbnails/ExampleTheme2/thumb.png"
+    }
+  }
+]
