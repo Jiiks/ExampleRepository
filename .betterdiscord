@@ -1,0 +1,21 @@
+[
+    {
+        "type": "theme",
+        "name": "Example Theme",
+        "version": "1.0",
+        "authors": [ 
+            {
+                "discord_username": "Jiiks",
+                "discord_id": "81388395867156480",
+                "github_username": "Jiiks",
+                "github_override": false
+            } 
+        ],
+        "tags": [ "tag0", "tag1", "tag2" ],
+        "src": "Example",
+        "release": {
+            "tag": "1.0",
+            "package": "Example.bd"
+        }
+    }
+]
