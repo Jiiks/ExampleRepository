@@ -17,6 +17,11 @@
             "tag": "1.0",
             "name": "Example Theme 1.0",
             "package": "Example.bd"
-        }
+        },
+        "previews": [
+            { "large": "Example/preview1-big.png", "thumb": "Example/preview1-small.png" },
+            { "large": "Example/preview2-big.png", "thumb": "Example/preview2-small.png" },
+            { "large": "Example/preview3-big.png", "thumb": "Example/preview3-small.png" }
+        ]
     }
 ]
