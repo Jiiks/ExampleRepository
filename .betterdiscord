@@ -24,6 +24,6 @@
             { "large": "Example/preview3-big.png", "thumb": "Example/preview3-small.png" }
         ],
         "readme": "Example/readme.md",
-        "cachetest": "test"
+        "webhooktest": "test"
     }
 ]
