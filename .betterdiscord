@@ -22,7 +22,6 @@
             { "large": "Example/preview2-big.png", "thumb": "Example/preview2-small.png" },
             { "large": "Example/preview3-big.png", "thumb": "Example/preview3-small.png" }
         ],
-        "readme": "Example/readme.md",
-        "webhooktest": "test"
+        "readme": "Example/readme.md"
     }
 ]
