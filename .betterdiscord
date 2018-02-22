@@ -14,8 +14,7 @@
         "tags": [ "tag0", "tag1", "tag2" ],
         "src": "Example",
         "release": {
-            "tag": "1.0",
-            "name": "Example Theme 1.0",
+            "id": "6221125",
             "package": "Example.bd"
         },
         "previews": [
