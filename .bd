@@ -1,0 +1,52 @@
+[
+    {
+        "type": "theme",
+        "name": "Example Theme",
+        "version": "1.0",
+        "authors": [ 
+            {
+                "discord_username": "Jiiks",
+                "discord_id": "81388395867156480",
+                "github_username": "Jiiks",
+                "github_override": false
+            } 
+        ],
+        "tags": [ "tag0", "tag1", "tag2" ],
+        "src": "Example",
+        "release": {
+            "id": "6221125",
+            "package": "Example.bd"
+        },
+        "previews": [
+            { "large": "Example/preview1-big.png", "thumb": "Example/preview1-small.png" },
+            { "large": "Example/preview2-big.png", "thumb": "Example/preview2-small.png" },
+            { "large": "Example/preview3-big.png", "thumb": "Example/preview3-small.png" }
+        ],
+        "readme": "Example/readme.md"
+    },
+    {
+        "type": "plugin",
+        "name": "Example Plugin",
+        "version": "1.0",
+        "authors": [ 
+            {
+                "discord_username": "Jiiks",
+                "discord_id": "81388395867156480",
+                "github_username": "Jiiks",
+                "github_override": false
+            } 
+        ],
+        "tags": [ "tag0", "tag1", "tag2" ],
+        "src": "Example",
+        "release": {
+            "id": "6221125",
+            "package": "Example.bd"
+        },
+        "previews": [
+            { "large": "Example/preview1-big.png", "thumb": "Example/preview1-small.png" },
+            { "large": "Example/preview2-big.png", "thumb": "Example/preview2-small.png" },
+            { "large": "Example/preview3-big.png", "thumb": "Example/preview3-small.png" }
+        ],
+        "readme": "Example/readme.md"
+    }
+]
