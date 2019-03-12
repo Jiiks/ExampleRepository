@@ -14,8 +14,7 @@
         "tags": [ "tag0", "tag1", "tag2" ],
         "src": "Example",
         "release": {
-            "id": "6221125",
-            "package": "Example.bd"
+            "name": "Example.bd"
         },
         "previews": [
             { "large": "Example/preview1-big.png", "thumb": "Example/preview1-small.png" },
@@ -39,8 +38,7 @@
         "tags": [ "tag0", "tag1", "tag2" ],
         "src": "Example",
         "release": {
-            "id": "6221125",
-            "package": "Example.bd"
+            "name": "Example0.bd"
         },
         "previews": [
             { "large": "Example/preview1-big.png", "thumb": "Example/preview1-small.png" },
@@ -64,8 +62,7 @@
         "tags": [ "tag0", "tag1", "tag2" ],
         "src": "Example",
         "release": {
-            "id": "6221125",
-            "package": "Example.bd"
+            "name": "Example1.bd"
         },
         "previews": [
             { "large": "Example/preview1-big.png", "thumb": "Example/preview1-small.png" },
@@ -89,8 +86,7 @@
         "tags": [ "tag0", "tag1", "tag2" ],
         "src": "Example",
         "release": {
-            "id": "6221125",
-            "package": "Example.bd"
+            "name": "Example2.bd"
         },
         "previews": [
             { "large": "Example/preview1-big.png", "thumb": "Example/preview1-small.png" },
@@ -114,8 +110,7 @@
         "tags": [ "tag0", "tag1", "tag2" ],
         "src": "Example",
         "release": {
-            "id": "6221125",
-            "package": "Example.bd"
+            "name": "Example3.bd"
         },
         "previews": [
             { "large": "Example/preview1-big.png", "thumb": "Example/preview1-small.png" },
@@ -139,8 +134,7 @@
         "tags": [ "tag0", "tag1", "tag2" ],
         "src": "Example",
         "release": {
-            "id": "6221125",
-            "package": "Example.bd"
+            "name": "Example4.bd"
         },
         "previews": [
             { "large": "Example/preview1-big.png", "thumb": "Example/preview1-small.png" },
@@ -164,8 +158,7 @@
         "tags": [ "tag0", "tag1", "tag2" ],
         "src": "Example",
         "release": {
-            "id": "6221125",
-            "package": "Example.bd"
+            "name": "Example5.bd"
         },
         "previews": [
             { "large": "Example/preview1-big.png", "thumb": "Example/preview1-small.png" },
@@ -189,8 +182,7 @@
         "tags": [ "tag0", "tag1", "tag2" ],
         "src": "Example",
         "release": {
-            "id": "6221125",
-            "package": "Example.bd"
+            "name": "Example6.bd"
         },
         "previews": [
             { "large": "Example/preview1-big.png", "thumb": "Example/preview1-small.png" },
@@ -214,8 +206,7 @@
         "tags": [ "tag0", "tag1", "tag2" ],
         "src": "Example",
         "release": {
-            "id": "6221125",
-            "package": "Example.bd"
+            "name": "Example7.bd"
         },
         "previews": [
             { "large": "Example/preview1-big.png", "thumb": "Example/preview1-small.png" },
@@ -239,8 +230,7 @@
         "tags": [ "tag0", "tag1", "tag2" ],
         "src": "Example",
         "release": {
-            "id": "6221125",
-            "package": "Example.bd"
+            "name": "Example8.bd"
         },
         "previews": [
             { "large": "Example/preview1-big.png", "thumb": "Example/preview1-small.png" },
@@ -264,8 +254,7 @@
         "tags": [ "tag0", "tag1", "tag2" ],
         "src": "Example",
         "release": {
-            "id": "6221125",
-            "package": "Example.bd"
+            "name": "Example9.bd"
         },
         "previews": [
             { "large": "Example/preview1-big.png", "thumb": "Example/preview1-small.png" },
@@ -289,8 +278,7 @@
         "tags": [ "tag0", "tag1", "tag2" ],
         "src": "Example",
         "release": {
-            "id": "6221125",
-            "package": "Example.bd"
+            "name": "Example10.bd"
         },
         "previews": [
             { "large": "Example/preview1-big.png", "thumb": "Example/preview1-small.png" },
@@ -314,8 +302,7 @@
         "tags": [ "tag0", "tag1", "tag2" ],
         "src": "Example",
         "release": {
-            "id": "6221125",
-            "package": "Example.bd"
+            "name": "Example11.bd"
         },
         "previews": [
             { "large": "Example/preview1-big.png", "thumb": "Example/preview1-small.png" },
